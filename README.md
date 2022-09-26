@@ -23,4 +23,4 @@ skybox change, and there is now lighting effects including a directional light w
 
 All textures are downloaded from https://3djungle.net/.
 The frog shape is from https://free3d.com/.
-The duck shape is from Coltyn Stone-Lamontagne via the CSSA Discord, who designed the model in Blender.
+The duck shape is from Coltyn Stone-Lamontagne, who designed the model in Blender.
