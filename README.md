@@ -19,7 +19,7 @@
 This game contains a few extras - specifically, an Environmental Skybox, Particle System, and Shading/Lighting System.  
 To access these, activate the night scenery mode.
 
-##  Getting Started
+## 👟 Getting Started
 
 To launch Robo Run, ensure you have [JDK 17](https://openjdk.org/projects/jdk/17/) or later installed.  
 Then, start "roborun.exe" from the "windows-amd64" folder.
