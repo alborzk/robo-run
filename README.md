@@ -1,6 +1,8 @@
-# Robo Run
+<h1 align="center"> Robo Run</h1>
 
-![](readme/demo.gif)
+<p align="center"> 
+  <img src="readme/demo.gif" alt="Demo GIF">
+</p>
 
 ## 🤖 About
 - This is a simple "runner" type game that resets upon completion.
