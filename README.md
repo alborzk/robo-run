@@ -31,7 +31,7 @@ Then, start "roborun.exe" from the "windows-amd64" folder.
 - **LCLICK (HOLD)**: Freelook (First Person)
 - **Q**: Change Scenery (Day/Night)
 
-## 📖 Credits
+## 📝 Credits
 All textures are downloaded from https://3djungle.net/.  
 The frog shape is from https://free3d.com/.  
 The duck shape is from Coltyn Stone-Lamontagne, who designed the model in Blender.  
