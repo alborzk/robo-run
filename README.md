@@ -26,6 +26,7 @@ Then, start "roborun.exe" from the "windows-amd64" folder.
 
 ## 🕹️ Controls
 - **SPACE**: Jump
+- **A/D**: Move Left/Right
 - **ENTER**: Change Camera Mode (First/Third Person)
 - **LCLICK (HOLD)**: Freelook (First Person)
 - **Q**: Change Scenery (Day/Night)
