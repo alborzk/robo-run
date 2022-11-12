@@ -14,7 +14,7 @@
 - The rubber ducky is the goal point, sending the user back to the start, but in a good way (marking completion).
 
 ## 🦆 Additional Details
-- This game contains a few extras - specifically, an Environmental Skybox, Particle System, and Shading/Lighting System. To access these, activate night mode.
+- This game contains a few extras - specifically, an Environmental Skybox, Particle System, and Shading/Lighting System. To access these, activate the night scenery.
 
 ## 🕹️ Controls
 - **SPACE**: Jump
